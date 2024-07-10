@@ -1,4 +1,7 @@
-/*Import Tailwind*/
+/*I made this solely for importing Tailwind 
+because the docs said index.css and not style.css, 
+and I wasn't sure if that made a difference or 
+not...*/
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
